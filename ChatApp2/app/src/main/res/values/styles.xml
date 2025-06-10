@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.ChatApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorPrimaryVariant">@color/orange_primary</item>
+        <item name="android:statusBarColor">@color/orange_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="AppToolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@color/orange_primary</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+</resources>
